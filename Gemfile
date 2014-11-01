@@ -12,3 +12,5 @@ gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
 gem 'sqlite3'
 
+# gem 'active_model_serializers'
+
